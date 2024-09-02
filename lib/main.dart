@@ -4,7 +4,7 @@ import 'dart:convert';
 import 'package:flutter/services.dart';
 
 
-//Source Code:
+//Citations:
 
 //https://stackoverflow.com/questions/71294190/how-to-read-local-json-file-in-flutter
 //https://stackoverflow.com/questions/58908968/how-to-implement-a-flutter-search-app-bar
